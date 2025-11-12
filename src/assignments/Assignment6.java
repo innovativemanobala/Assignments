@@ -12,9 +12,9 @@ public class Assignment6 {
 		int c = marks[2];
 		
 		int[] increase = { 
-				a = a += 10,
-				b =  b += 10,
-				c = c += 10 
+				 a += 10,
+				  b += 10,
+				 c += 10 
 		};
 		
 		System.out.println ("Updated marks:" );
